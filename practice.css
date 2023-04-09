@@ -1,0 +1,84 @@
+.div1 {
+    color:  greenyellow;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: fantasy;
+   font-style: bold;
+   font-size: x-large;
+}
+.div2{
+    margin-top: 200px;
+    margin-left: 100px;
+    background-color: white;
+    border-bottom:0.3px solid rgb(179, 173, 173);
+}
+.h2{
+    float: left;
+    font-size: x-large;
+    background-color: white;
+    margin-left: 600px;
+}
+.text{
+    margin-top: 20px;
+
+}
+.div3{
+    margin: 30px;
+    float: left;
+    background-color: black;
+    height: 200px;
+    width: 150px;
+}
+.img{
+    height: 700px;
+    width: 300px;
+    float: left;
+    margin : 100px;
+}
+.para{
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+.div4{
+    margin: 100px;
+    width: 300px;
+    font-family: fantasy;
+    border: right;
+    float: left;
+}
+.div5{
+    background-color: gold;
+    height: 500px;
+    width: 1500px;
+}
+.icon{
+    font-size: xx-large;
+    height: 400px;
+    width: 200px;
+}
+.anchor{
+    margin: 20px;
+}
+.div0{
+    height: 60px;
+    width: 1500px;
+    background-color: black;
+}
+.input{
+    float: left;
+    height: 60px;
+    background-color: black;
+    color: white;
+   width: 70px;
+}
+.head{
+    background-color:indianred;
+    height: 400px;
+    margin-top: -100px;
+}
+.input2{
+    float: right;
+    height: 60px;
+    width: 180px;
+}
